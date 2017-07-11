@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# special files
+*.info
+*.love
+itchat.pkl
+
